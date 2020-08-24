@@ -8,7 +8,6 @@
 
 body {
     font-family: 'Josefin Sans', sans-serif;
-
 }
 
 .wrap {
@@ -28,7 +27,7 @@ body {
     flex-direction: column;
     justify-content: center;
     width: 60%;
-    padding: 12rem;
+    padding: 0 35rem;
     background: url("images/bg-pattern-desktop.svg");
 }
 
